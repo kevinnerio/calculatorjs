@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Take two values and perform a calculator function",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Nerio",
+  "license": "ISC",
+  "dependencies": {
+    "app-npm": "^1.0.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
